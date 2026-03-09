@@ -3,20 +3,23 @@
 
 ## 项目信息
 
-- 项目名称：
-- 方案描述：
-- 时间规划：
+- 项目基本信息：
+*如项目名称、时间线等*
 
 ## 项目总结
-
 - 已完成工作：
-  *根据原定方案和时间规划，描述当前已有的工作成果，应与项目申请书方案内容一一对应*
+  *项目方案的完整描述和成果进度展示，与项目申请书方案内容相对应*
+
 - 遇到的问题及解决方案：
-  *可以侧重描述总结与心得*
+*问题描述和解决过程*  
+*总结与心得*
+
 - 测试用例：
   *对应的测试验证结果*
+
 - 后续工作安排：
-  *是否需要调整工作计划等*
+  *项目成果的应用、发版情况以及后续的维护等*
+
 
 Tips: 鼓励学生在模板的基础上提供更加丰富的内容:)
 
@@ -27,19 +30,22 @@ When uploading, please name the file as: Student Name + Project Number + Final R
 
 ## Project Information
 
-- Project Name：
-- Scheme Description：
-- Time Planning：
+*Project Name, Project Timeline, etc.
+
 
 ## Project Summary
 
 - Completed Work ：
-  *Describe your work according to the original plan. It should correspond to the project application.*
+  *A comprehensive description of the project plan and presentation of progress and outcomes, consistent with the content of the project application.*
+
 - Problem and Solution：
-  *Focus on describing the summary and experience*
+  *Problem Description and Solution Process*
+  *Summary and Experience*
+
 - Test Cases: 
   *Present the corresponding test validation results*
+
 - Subsequent Work Arrangement：
   *Demonstrate the progress and whether you need to adjust the plan*
 
-Tips: We encourage you enrich the content on the basis of the template:)
+Tips: We encourage you to enrich the content based on the template:)
